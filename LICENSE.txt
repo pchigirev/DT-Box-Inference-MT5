@@ -1,0 +1,63 @@
+
+Pavel Chigirev, pavelchigirev.com Custom Software License
+
+Copyright (c) 2023-2024 Pavel Chigirev, pavelchigirev.com
+
+Usage and Modification:
+
+Any person is granted the right to download, run, 
+and modify the source code of the base version of 
+this software (the "Software") for their personal 
+or organizational needs, including for the purpose 
+of trading, learning how to trade, and developing 
+trading ideas. Redistribution of the Software in 
+its original or modified form within an organization 
+for internal use is permitted.
+
+Development Services:
+
+Individuals or organizations requiring custom 
+features, adjustments, or modifications to the 
+Software must contact the original author, 
+Pavel Chigirev, pavelchigirev.com, for such 
+services. The original author reserves the right 
+to charge a fee for these development services, 
+which will be determined based on the nature and 
+complexity of the requested changes.
+
+Revenue Generation and Restrictions:
+
+Individuals and organizations are permitted to 
+use the Software for generating revenue through 
+trading activities, educational purposes, or 
+developing trading strategies.
+
+Direct or indirect revenue generation from the 
+selling, sublicensing, or distribution of the 
+Software or any of its modified versions is 
+strictly prohibited unless explicit written 
+permission is obtained from the original author, 
+Pavel Chigirev, pavelchigirev.com.
+
+Offering programming services for modification, 
+enhancement, customization, or bug fixing of the 
+Software for compensation is exclusively reserved 
+for the original author, Pavel Chigirev, 
+pavelchigirev.com unless such activities are conducted 
+internally within an organization and the modified 
+software is used solely for the internal needs of 
+that organization, excluding any form of external 
+selling or service provision.
+
+Warranty & Liability:
+
+The Software is provided "as is", without warranty of 
+any kind, express or implied, including but not 
+limited to the warranties of merchantability, fitness 
+for a particular purpose, and non-infringement. 
+
+In no event shall the authors or copyright holders 
+be liable for any claim, damages, or other liability, 
+whether in an action of contract, tort, or otherwise, 
+arising from, out of, or in connection with the Software 
+or the use or other dealings in the Software.
