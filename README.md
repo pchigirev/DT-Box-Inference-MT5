@@ -1,0 +1,5 @@
+**DT-Box-Inference** application is designed to run TensorFlow/Keras trained models in prediction mode for MetaTrader5 custom indicators. I wrote the entire series of articles about developing such neural network-based pattern recognition indicators. Here you can find detailed overview of the project - [Developing Neural Network-Based Pattern Recognition Indicators for MetaTrader5 Using TensorFlow/Keras and DT-Box-Inference in 30 Minutes](https://pavelchigirev.com/intro-dt-box-inference/)
+
+The code for the project is divided into two repositories: [DT-Box-Inference](https://github.com/pchigirev/DT-Box-Inference), which contains the Python code for the app running trained models, and **DT-Box-Inference-MT5** (this repository), where I placed all necessary MQL5 files for the project.
+
+If you'd like to install **DT-Box-Inference** using pre-compiled files, here you can find all necessary information - [DT-Box-Inference: Installation and Configuration](https://pavelchigirev.com/dt-box-inference-installation-and-configuration/)
